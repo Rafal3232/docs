@@ -21,9 +21,9 @@
     "fmt-markdown": "markdownlint-cli2-fix 'docs/**/*.md' 'docs/**/*.mdx'"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/core": "^3.8.0",
     "@docusaurus/plugin-client-redirects": "^3.7.0",
-    "@docusaurus/preset-classic": "^3.7.0",
+    "@docusaurus/preset-classic": "^3.8.0",
     "@docusaurus/remark-plugin-npm2yarn": "^3.7.0",
     "@easyops-cn/docusaurus-search-local": "0.45.0",
     "@fontsource-variable/inter": "^5.2.6",
