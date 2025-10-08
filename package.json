@@ -21,9 +21,9 @@
     "fmt-markdown": "markdownlint-cli2-fix 'docs/**/*.md' 'docs/**/*.mdx'"
   },
   "dependencies": {
-    "@docusaurus/core": "3.8.1",
+    "@docusaurus/core": "3.9.0",
     "@docusaurus/plugin-client-redirects": "3.8.1",
-    "@docusaurus/preset-classic": "3.8.1",
+    "@docusaurus/preset-classic": "3.9.0",
     "@docusaurus/remark-plugin-npm2yarn": "3.8.1",
     "@easyops-cn/docusaurus-search-local": "0.45.0",
     "@fontsource-variable/inter": "^5.2.6",
@@ -35,7 +35,7 @@
     "markdownlint-cli2": "^0.11.0",
     "plotly.js-basic-dist": "^2.27.1",
     "prism-react-renderer": "^2.3.0",
-    "puppeteer": "^23",
+    "puppeteer": "^24.10.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-plotly.js": "^2.6.0"
