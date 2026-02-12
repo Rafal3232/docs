@@ -200,8 +200,8 @@ const config: Config = {
                 to: 'https://faucet.testnet.oasis.io/',
               },
               {
-                label: 'Playground',
-                to: 'https://playground.oasis.io/',
+                label: 'Demos',
+                to: 'https://demos.oasis.io/',
               },
               {
                 label: 'API',
