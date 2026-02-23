@@ -161,6 +161,16 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   font-size: 14px;
 }
 
+/* Announcement bar has a dark bg in both themes; use cyan for visible border */
+.theme-announcement-bar {
+  border-bottom: 2px solid #00ffff !important;
+}
+
+/* Buttons don't inherit color from parent; fix close button visibility on dark bg */
+.theme-announcement-bar .close {
+  color: #ffffff;
+}
+
 /* Make the search field more Oasis-like */
 .navbar__search-input {
   border-radius: 0;

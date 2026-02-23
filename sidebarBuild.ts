@@ -198,6 +198,7 @@ export const sidebarBuild: SidebarsConfig = {
             'build/tools/cli/rofl',
           ]
         },
+        'build/tools/llms',
         'build/tools/abi-playground',
         'build/tools/verification',
         'build/tools/band',

@@ -112,6 +112,13 @@ const config: Config = {
   ],
   themeConfig:
     {
+      announcementBar: {
+        id: 'ai_assisted_dev',
+        content: 'Use Oasis docs with AI coding assistants — <a href="/build/tools/llms">llms.txt and Context7 MCP now available</a>!',
+        backgroundColor: '#18181B',
+        textColor: '#ffffff',
+        isCloseable: true,
+      },
       navbar: {
         logo: {
           alt: 'Oasis Docs',
